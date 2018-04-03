@@ -3,4 +3,5 @@ hello b
 ^cd
 :Cd
 ZZ
+edit 1
 
