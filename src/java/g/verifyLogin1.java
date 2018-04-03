@@ -20,6 +20,7 @@ public static boolean checkLogin(int accountno,String username,String password){
 		
 	} catch (SQLException e) {
 		e.printStackTrace();
+		System.out.Println("ksjhvfjxf");
 	}
 	return status;
 }
