@@ -1,0 +1,6 @@
+hello b
+:wqcd
+^cd
+:Cd
+ZZ
+
